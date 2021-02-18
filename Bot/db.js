@@ -1,8 +1,3 @@
-/*
- * @author Balogun Wahab A.
- * ig-bot
- * 11/8/18 9:32 AM
- */
 const firebase = require('firebase-admin');
 const config = require("./config/db_config");
 
