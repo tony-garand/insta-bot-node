@@ -2,7 +2,6 @@
 
 # Instagram-bot
 An Instagram bot that helps automate regular Instagram activities such as; liking posts, follow users and unfollow users. These activities get us more followers as well as boost interaction on the content of our account.
-[Link to tutorial](https://medium.com/@03balogun/building-an-instagram-bot-using-nodejs-puppeteer-and-firebase-28ebb93784d6)
 
 ## Getting Started
 
