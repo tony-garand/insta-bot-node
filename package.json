@@ -1,5 +1,5 @@
 {
-  "name": "instagram-bot",
+  "name": "instagram-bot-node",
   "version": "1.0.0",
   "description": "A bot that helps automate regular Instagram activity i.e liking posts, following users and unfollow users.",
   "main": "index.js",
